@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhid102&" alt="tauhid102" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tauhid102)
+
