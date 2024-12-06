@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tauhidur Rahman</h1>
-<h3 align="center">Passionate Web Developer</h3>
+<h3 align="center">Passionate Cyber Security and automation testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tauhid102&label=Profile%20views&color=0e75b6&style=flat" alt="tauhid102" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Redux**
+- 🌱 I’m currently learning **Cyber_Security, Cypress**
 
 - 📫 How to reach me **tauhidurr102@gmail.com**
 
